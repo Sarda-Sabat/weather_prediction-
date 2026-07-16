@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Model artifacts (regenerate via train_model.py; keep repo lightweight)
+models/*.h5
+models/*.joblib
+
+# Data (regenerate via train_model.py / app usage; can be large)
+data/*.csv
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
