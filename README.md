@@ -176,10 +176,10 @@ replacement for professional meteorological forecasting.
 Below are mock screenshots showing the premium Skyline Weather dashboard design and interface:
 
 ### 1. Home / Current Weather Page
-![Skyline Current Weather Dashboard](assets/screenshot-current.png)
+![Skyline Current Weather Dashboard](assets/1.png)
 
 ### 2. AI Prediction Tab (Running in Fallback Mode)
-![Skyline AI Weather Prediction Tab](assets/screenshot-prediction.png)
+![Skyline AI Weather Prediction Tab](assets/2.png)
 
 ---
 
