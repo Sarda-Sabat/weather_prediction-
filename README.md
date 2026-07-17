@@ -10,7 +10,7 @@ all in one modern, responsive dashboard.
 [![python](https://img.shields.io/badge/python-3.10%2B-blue)](#)
 [![license](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
-🚀 **[Live Demo Link (Streamlit Community Cloud)](https://skyline-weather-prediction.streamlit.app)** *(Deploy yours for free on Streamlit!)*
+🚀 **[Live Demo Link (Streamlit Community Cloud)](https://weather-prediction-bxlk.onrender.com/)** *(Deploy yours for free on Streamlit!)*
 
 > [!NOTE]
 > **Python 3.14 Compatibility**: TensorFlow does not currently support Python 3.14 pre-built wheels. This app features a robust fallback mechanism: if TensorFlow is not installed, `train_model.py` automatically trains a Scikit-Learn `RandomForestRegressor` and the app runs in fallback mode without crashing.
